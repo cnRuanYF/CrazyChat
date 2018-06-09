@@ -1,6 +1,5 @@
 <h1 align="center">CrazyChat／疯聊</h1>
-<p align="center"><img src="ScreenShots\Logo.png"/></p>
-
+<p align="center"><img src="ScreenShots/Logo.png"/></p>
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](LICENSE)
 
@@ -47,64 +46,62 @@ GUI使用Swing实现，通过Socket实现客户端与服务端之间的通信
 
 ### Web端
 
-![B-1-1_Register](ScreenShots\B-1-1_Register.png)
+![B-1-1_Register](ScreenShots/B-1-1_Register.png)
 
+![B-1-2_Reg-Failed](ScreenShots/B-1-2_Reg-Failed.png)
 
-
-![B-1-2_Reg-Failed](ScreenShots\B-1-2_Reg-Failed.png)
-
-![B-1-3_Reg-Success](ScreenShots\B-1-3_Reg-Success.png)
+![B-1-3_Reg-Success](ScreenShots/B-1-3_Reg-Success.png)
 
 ### 客户端
 
-![C-1-1_Login](ScreenShots\C-1-1_Login.png)
+![C-1-1_Login](ScreenShots/C-1-1_Login.png)
 
-![C-1-2_Logining](ScreenShots\C-1-2_Logining.gif)
+![C-1-2_Logining](ScreenShots/C-1-2_Logining.gif)
 
-![C-1-2_Logining](ScreenShots\C-1-2_Logining.png)
+![C-1-2_Logining](ScreenShots/C-1-2_Logining.png)
 
-![C-1-3_Login-Failed-1](ScreenShots\C-1-3_Login-Failed-1.png)
+![C-1-3_Login-Failed-1](ScreenShots/C-1-3_Login-Failed-1.png)
 
-![C-1-4_Login-Failed-2](ScreenShots\C-1-4_Login-Failed-2.png)
+![C-1-4_Login-Failed-2](ScreenShots/C-1-4_Login-Failed-2.png)
 
-![C-1-5_Login-Failed-3](ScreenShots\C-1-5_Login-Failed-3.png)
+![C-1-5_Login-Failed-3](ScreenShots/C-1-5_Login-Failed-3.png)
 
-![C-2-1_MainFrame](ScreenShots\C-2-1_MainFrame.png)
+![C-2-1_MainFrame](ScreenShots/C-2-1_MainFrame.png)
 
-![C-2-2_Chat-1](ScreenShots\C-2-2_Chat-1.png)
+![C-2-2_Chat-1](ScreenShots/C-2-2_Chat-1.png)
 
-![C-2-3_Chat-2](ScreenShots\C-2-3_Chat-2.png)
+![C-2-3_Chat-2](ScreenShots/C-2-3_Chat-2.png)
 
-![C-3-1_Friends](ScreenShots\C-3-1_Friends.png)
+![C-3-1_Friends](ScreenShots/C-3-1_Friends.png)
 
-![C-3-2_Friend-Profile](ScreenShots\C-3-2_Friend-Profile.png)
+![C-3-2_Friend-Profile](ScreenShots/C-3-2_Friend-Profile.png)
 
-![C-3-3_Groups](ScreenShots\C-3-3_Groups.png)
+![C-3-3_Groups](ScreenShots/C-3-3_Groups.png)
 
-![C-3-4_Group-Profile](ScreenShots\C-3-4_Group-Profile.png)
+![C-3-4_Group-Profile](ScreenShots/C-3-4_Group-Profile.png)
 
-![C-4-1_Search-User](ScreenShots\C-4-1_Search-User.png)
+![C-4-1_Search-User](ScreenShots/C-4-1_Search-User.png)
 
-![C-4-2_Searching](ScreenShots\C-4-2_Searching.png)
+![C-4-2_Searching](ScreenShots/C-4-2_Searching.png)
 
-![C-4-3_Search-Failed](ScreenShots\C-4-3_Search-Failed.png)
+![C-4-3_Search-Failed](ScreenShots/C-4-3_Search-Failed.png)
 
-![C-4-4_Search-Result](ScreenShots\C-4-4_Search-Result.png)
+![C-4-4_Search-Result](ScreenShots/C-4-4_Search-Result.png)
 
-![C-5_Edit-Profile](ScreenShots\C-5_Edit-Profile.png)
+![C-5_Edit-Profile](ScreenShots/C-5_Edit-Profile.png)
 
-![C-6-1_Adaptive-Layout-1](ScreenShots\C-6-1_Adaptive-Layout-1.png)
+![C-6-1_Adaptive-Layout-1](ScreenShots/C-6-1_Adaptive-Layout-1.png)
 
-![C-6-2_Adaptive-Layout-2](ScreenShots\C-6-2_Adaptive-Layout-2.png)
+![C-6-2_Adaptive-Layout-2](ScreenShots/C-6-2_Adaptive-Layout-2.png)
 
 ### 服务端
 
-![S-1-1_Server-Stopped](ScreenShots\S-1-1_Server-Stopped.png)
+![S-1-1_Server-Stopped](ScreenShots/S-1-1_Server-Stopped.png)
 
-![S-1-2_Server-Running](ScreenShots\S-1-2_Server-Running.png)
+![S-1-2_Server-Running](ScreenShots/S-1-2_Server-Running.png)
 
-![S-2_Online-Users](ScreenShots\S-2_Online-Users.png)
+![S-2_Online-Users](ScreenShots/S-2_Online-Users.png)
 
-![S-3_Users](ScreenShots\S-3_Users.png)
+![S-3_Users](ScreenShots/S-3_Users.png)
 
-![S-4_Logs](ScreenShots\S-4_Logs.png)
+![S-4_Logs](ScreenShots/S-4_Logs.png)
